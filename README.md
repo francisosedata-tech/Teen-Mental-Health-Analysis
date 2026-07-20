@@ -78,8 +78,7 @@ I wrote the following SQL queries to explore and analyze the dataset:
 ### 1. Teen Mental Wellbeing Dashboard
 ![Teen Mental Wellbeing Analysis](https://github.com/francisosedata-tech/Teen-Mental-Health-Analysis/blob/3fac556564df42cfa18a5ca0082bcf74f1ce7484/Mental%20Health%20Dashboard1.png)
 ### 2. Academic Performance vs Social Media Usage
-![Academic Performance Analysis](https://github.com/francisosedata-tech/Ose_Portfolio/blob/193e0502beac0891f8ffd0a3058ed32b7e7985e0/ede51689-394d-4ea4-b93a-70983466548a.jpeg)
-
+![Academic Performance Analysis](https://github.com/francisosedata-tech/Teen-Mental-Health-Analysis/blob/dbff41da808f322038c787dd3c69f7e8be397127/Mental%20Health%20Dashboard2.png)
 (Replace the paths with the actual image file names after uploading them to your repository)
 
 ---
