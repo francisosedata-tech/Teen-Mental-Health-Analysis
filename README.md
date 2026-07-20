@@ -110,7 +110,25 @@ I wrote the following SQL queries to explore and analyze the dataset:
 ## 📁 Project Structure
 
 
+## 🚀 How to Explore This Project
 
+1. Clone the repository
+2. Open the .pbix files in *Power BI Desktop* to interact with the dashboards
+3. Review the screenshots for quick insights
+4. Check the Reports folder for detailed documentation
+
+---
+
+## 🔗 Connect With Me
+
+- *LinkedIn*: [linkedin.com/in/yourprofile](https://linkedin.com/in/ose-francis)
+- *X (Twitter)*: [@DataAnalystOse](https://twitter.com/DataAnalystOse)
+- *Email*: Francisose.data@gmail.com
+
+---
+
+*Made with ❤️ for youth development*  
+Voluntary project showcasing data-driven insights for social impact.
 
 
   
