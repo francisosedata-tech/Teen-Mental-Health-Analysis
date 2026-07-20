@@ -65,7 +65,7 @@ This project explores the relationship between *social media usage, **mental wel
 I wrote the following SQL queries to explore and analyze the dataset:
 
 ### Overall Summary Statistics
-*View:* [SQL-queries](https://github.com/francisosedata-tech/Ose_Portfolio/blob/8415fe9f445a40559c12267fb732d46f67d9a5a0/sql.queries.sql)
+*View:* [SQL-queries](https://github.com/francisosedata-tech/Teen-Mental-Health-Analysis/blob/3f37ac06e6d9ca62dcbd6ee2381ae28e4cf0c6c6/sql.%20queries)
 
 *Core Findings:*
 - High social media usage correlates with elevated *stress (5.6+), **anxiety, and **addiction* levels.
