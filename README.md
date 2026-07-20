@@ -76,8 +76,7 @@ I wrote the following SQL queries to explore and analyze the dataset:
 ## 📸 Dashboard Screenshots
 
 ### 1. Teen Mental Wellbeing Dashboard
-![Teen Mental Wellbeing Analysis](https://github.com/francisosedata-tech/Ose_Portfolio/blob/47d58b01bfd0474e0b2153b23a473c7f556e95bb/ccb740e6-9e5c-4ac6-8d8f-7a843d147e86.jpeg) 
-
+![Teen Mental Wellbeing Analysis](https://github.com/francisosedata-tech/Teen-Mental-Health-Analysis/blob/3fac556564df42cfa18a5ca0082bcf74f1ce7484/Mental%20Health%20Dashboard1.png)
 ### 2. Academic Performance vs Social Media Usage
 ![Academic Performance Analysis](https://github.com/francisosedata-tech/Ose_Portfolio/blob/193e0502beac0891f8ffd0a3058ed32b7e7985e0/ede51689-394d-4ea4-b93a-70983466548a.jpeg)
 
