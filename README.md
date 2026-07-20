@@ -58,7 +58,6 @@ This project explores the relationship between *social media usage, **mental wel
 ## Dataset
 - *File:* teen_mental_health_project.(1,200 records)  
 - *Download:* [teen_mental_health_project.csv](https://github.com/francisosedata-tech/Teen-Mental-Health-Analysis/blob/368f39914b1b391b6866262ac860a5e650986ebf/Teen_Mental_health_project.csv) 
-- *Key Columns:* age, age_group, gender, daily_social_media_hours, social_media_usage, platform_usage, sleep_hours, screen_time_before_sleep, academic_performance, stress_level, anxiety_level, addiction_level, depression_label
 
 ## SQL Queries Used
 
@@ -79,7 +78,6 @@ I wrote the following SQL queries to explore and analyze the dataset:
 ![Teen Mental Wellbeing Analysis](https://github.com/francisosedata-tech/Teen-Mental-Health-Analysis/blob/3fac556564df42cfa18a5ca0082bcf74f1ce7484/Mental%20Health%20Dashboard1.png)
 ### 2. Academic Performance vs Social Media Usage
 ![Academic Performance Analysis](https://github.com/francisosedata-tech/Teen-Mental-Health-Analysis/blob/dbff41da808f322038c787dd3c69f7e8be397127/Mental%20Health%20Dashboard2.png)
-(Replace the paths with the actual image file names after uploading them to your repository)
 
 ---
 ## Stakeholder-Specific Recommendations & Actions
@@ -114,14 +112,15 @@ I wrote the following SQL queries to explore and analyze the dataset:
 
 1. Clone the repository
 2. Open the .pbix files in *Power BI Desktop* to interact with the dashboards
-3. Review the screenshots for quick insights
-4. Check the Reports folder for detailed documentation
+3. Check the sql queries folder for queries used
+4. Review the screenshots for quick insights
+5. Check the Reports folder for detailed documentation
 
 ---
 
 ## 🔗 Connect With Me
 
-- *LinkedIn*: [linkedin.com/in/yourprofile](https://linkedin.com/in/ose-francis)
+- *LinkedIn*: [linkedin.com/in/ose-francis](https://linkedin.com/in/ose-francis)
 - *X (Twitter)*: [@DataAnalystOse](https://twitter.com/DataAnalystOse)
 - *Email*: Francisose.data@gmail.com
 
