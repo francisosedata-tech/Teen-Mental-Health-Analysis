@@ -1,7 +1,7 @@
 # Teen Mental Wellbeing Analysis Report
 
-![Project Banner](path-to-banner-image.jpg)  
-(Optional: Add a clean banner or dashboard screenshot here)
+![Project Banner](https://github.com/francisosedata-tech/Teen-Mental-Health-Analysis/blob/7fbebf4857bafd53b6a67bc06753b91257907a6a/Project%20Banner.jpg)
+
 
 ## 📋 Project Overview
 
