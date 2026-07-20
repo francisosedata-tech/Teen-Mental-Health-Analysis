@@ -70,7 +70,7 @@ I wrote the following SQL queries to explore and analyze the dataset:
 *Core Findings:*
 - High social media usage correlates with elevated *stress (5.6+), **anxiety, and **addiction* levels.
 - Moderate negative relationship between daily social media hours and academic performance, especially among younger teens.
-- Low/medium usage groups show better sleep and mental health indicators.
+- Teens in this dataset sleep an average of 5.5 hours compared to the recommended benchmark of 8+ hours, indicating a signifiacant sleep deficit that may contribute to mental health challenges.
 
   
 ## 📸 Dashboard Screenshots
